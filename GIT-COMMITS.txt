@@ -1,7 +1,5 @@
-Clear commit history used for this project:
-
-1. Create React project structure
-2. Add reusable navbar and footer components
-3. Add Home, About, Sports Menu and Contact pages
-4. Add responsive styling and interactive features
-5. Add README and final project cleanup
+ab85c19 Add README and run instructions
+b4b43d6 Add responsive styling and logo
+eb7ce98 Add Sports Hub pages
+a3d136b Add reusable navigation and footer
+91fc544 Create React project structure
