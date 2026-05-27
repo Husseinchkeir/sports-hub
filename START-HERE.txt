@@ -1,0 +1,14 @@
+To run this React project:
+
+1. Open this folder in VS Code.
+2. Open Terminal > New Terminal.
+3. Run:
+
+npm install
+npm run dev
+
+4. Open the link shown in the terminal, usually:
+
+http://localhost:5173/
+
+Important: Do not use Live Server for React. Use npm run dev.
