@@ -1,14 +1,16 @@
-To run this React project:
+SPORTS HUB REACT - CLEAN RUN VERSION
 
+This clean version does NOT include package-lock.json, so npm will download packages from the public npm registry.
+
+To run:
 1. Open this folder in VS Code.
 2. Open Terminal > New Terminal.
-3. Run:
+3. Make sure you are in this folder and can see package.json when typing: dir
+4. Run:
+   npm install
+5. Then run:
+   npm run dev
+6. Open the localhost link shown in the terminal.
 
-npm install
-npm run dev
-
-4. Open the link shown in the terminal, usually:
-
-http://localhost:5173/
-
-Important: Do not use Live Server for React. Use npm run dev.
+If npm still shows ETIMEDOUT, the issue is internet/network, not the project.
+Try mobile hotspot, then run npm install again.
